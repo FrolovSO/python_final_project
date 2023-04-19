@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/misc.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/inspectionProfiles/profiles_settings.xml
+>>>>>>> main
+.idea/puthon_pytest.iml
+.idea/.gitignore
+.idea/final_project.iml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/modules.xml
