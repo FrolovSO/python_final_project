@@ -1,7 +1,7 @@
 import allure
 
-from screens.home_page_screen.catalog_screen import CatalogScreen
-from screens.home_page_screen.home_screen import HomeScreen
+from screens.catalog_screen import CatalogScreen
+from screens.home_screen import HomeScreen
 
 
 @allure.title('Navigate to catalog screen')
