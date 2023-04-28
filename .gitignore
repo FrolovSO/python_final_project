@@ -137,3 +137,4 @@ dmypy.json
 .idea/final_project.iml
 .idea/inspectionProfiles/Project_Default.xml
 .idea/modules.xml
+/results/

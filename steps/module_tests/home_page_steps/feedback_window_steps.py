@@ -1,7 +1,7 @@
 import allure
 
-from screens.home_page_screen.feedback_window_screen import FeedbackWindowScreen
-from screens.home_page_screen.home_screen import HomeScreen
+from screens.feedback_window_screen import FeedbackWindowScreen
+from screens.home_screen import HomeScreen
 
 
 @allure.title('Open ask questions window')

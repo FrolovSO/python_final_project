@@ -1,7 +1,7 @@
 import allure
 
-from screens.home_page_screen.authorization_window_screen import AuthorizationWindowScreen
-from screens.home_page_screen.home_screen import HomeScreen
+from screens.authorization_window_screen import AuthorizationWindowScreen
+from screens.home_screen import HomeScreen
 
 
 @allure.title('Open authorization and assert is window on home page')

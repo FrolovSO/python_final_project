@@ -1,7 +1,7 @@
 import allure
 
-from screens.home_page_screen.home_screen import HomeScreen
-from screens.home_page_screen.request_a_call_window_screen import RequestCallWindowScreen
+from screens.home_screen import HomeScreen
+from screens.request_a_call_window_screen import RequestCallWindowScreen
 
 
 @allure.title('Open request call window and assert is window on home page')

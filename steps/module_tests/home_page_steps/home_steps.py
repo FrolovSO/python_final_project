@@ -1,6 +1,6 @@
 import allure
 
-from screens.home_page_screen.home_screen import HomeScreen
+from screens.home_screen import HomeScreen
 
 
 @allure.title('Open web page')

@@ -1,7 +1,7 @@
 import allure
 
-from screens.home_page_screen.basket_screen import BasketScreen
-from screens.home_page_screen.home_screen import HomeScreen
+from screens.basket_screen import BasketScreen
+from screens.home_screen import HomeScreen
 
 
 @allure.title('Open basket screen and assert screen logo')
